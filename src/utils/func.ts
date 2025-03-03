@@ -167,7 +167,7 @@ export async function Cloner(
           'Chillaxy Community',
           {
             icon:
-              'https://images-ext-1.discordapp.net/external/IM-RZPPP1sx6CcqgzFyYvWSgCm9iZhW2dUQn8xLxIFo/https/cdn.discordapp.com/icons/1099463270399750206/f3e9ffd646e79c61a93c745639e157bb.png?format=webp&quality=lossless',
+              'https://i.postimg.cc/0yhSYcqN/ee1e051bbe9f8a4f9c49e87787e2d8de.webp',
           }
         );
 
