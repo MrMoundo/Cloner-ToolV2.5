@@ -167,7 +167,7 @@ export async function Cloner(
           'Chillaxy Community',
           {
             icon:
-              'https://i.postimg.cc/0yhSYcqN/ee1e051bbe9f8a4f9c49e87787e2d8de.webp',
+              'https://images-ext-1.discordapp.net/external/9OULtbfWV2kqkypTP43JMHz0H2VrISKPYcoR9yeRIOo/https/i.postimg.cc/0yhSYcqN/ee1e051bbe9f8a4f9c49e87787e2d8de.webp?format=webp',
           }
         );
 
@@ -239,7 +239,7 @@ export async function Cloner(
         if (cloneOption === 3) {
           const template = await newGuild.createTemplate(
             `${guild.name}`,
-            `By Chillaxy Community (https://discord.gg/jWqyCXUsF3)`
+            `By Chillaxy Community (https://discord.gg/HCvq5d83ZU)`
           );
           console.log(gradient(["#FFEB3B", "#FFC107", "#FF9800", "#FF5722"])(`» Template Url: ${template.url}`));
         }
